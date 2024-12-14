@@ -43,9 +43,12 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## OUTPUT:
 OFF
-![Screenshot 2024-12-14 081714](https://github.com/user-attachments/assets/e61c9e7d-4b1b-4ee6-8bf3-ed9ecb9affd9)
+
+![iot e2](https://github.com/user-attachments/assets/230f009d-6738-4215-8f06-5a2e42dbad67)
+
 ON
-![Screenshot 2024-12-14 081737](https://github.com/user-attachments/assets/2e81f979-2dbd-4752-b6e6-6ae0bbaa033e)
+
+![iot 2 2](https://github.com/user-attachments/assets/f5fa910d-7a89-4047-b80e-a15cf2236f98)
 
 
 
