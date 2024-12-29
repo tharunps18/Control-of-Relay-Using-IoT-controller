@@ -1,4 +1,6 @@
-# Control-of-Relay-Using-IoT-controller
+# NAME: THARUN P S
+# REF NO: 24900117
+# EX.NO:2 Control-of-Relay-Using-IoT-controller
 
 ##  AIM:
 To control the Relay using Arduino controller
